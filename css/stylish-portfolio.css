@@ -356,6 +356,10 @@ a:hover, a:focus, a:active {
 
 .bg-primary {
   background-color: #1D809F !important;
+  /* background: linear-gradient(#1A2980, #26D0CE) !important; */
+  padding: 100px;
+  
+  
 }
 
 .text-primary {
